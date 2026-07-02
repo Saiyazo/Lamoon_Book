@@ -146,7 +146,7 @@
 
 ## 📞 ติดต่อ | Contact
  
-**GitHub:** [Hiukhaw](https://github.com/Hiukhaw)
+**GitHub:** [Saiyazo](https://github.com/Saiyazo)
 
 ---
 **Course:** CSI204 - Software Engineering Workshop #1
